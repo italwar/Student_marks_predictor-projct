@@ -26,4 +26,4 @@ and i also deploy this model on spyder(anaconda 3).
 
 
 Deployment on Spyder
-website link : http://127.0.0.1:5000/predict
+website link : http://127.0.0.1:5000/
